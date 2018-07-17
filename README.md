@@ -1,1 +1,2 @@
-# GroupProject1.github.io
+# ArtistAccess
+Group project 1
